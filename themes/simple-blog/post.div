@@ -1,0 +1,9 @@
+<div class="post">
+    <div class="photo">
+        <a href="{post_link}"><img src="{post_img_file}"></a>
+    </div>
+    <div class="container">
+        <div class="title"><a href="{post_link}">{post_title}</a></div>
+        <div class="text"><a href="{post_link}">{post_summary}</a></div>
+    </div>
+</div>
